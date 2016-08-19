@@ -1,0 +1,2 @@
+# test_issue_pull_request_templates
+test_issue_pull_request_templates
